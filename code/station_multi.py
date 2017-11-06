@@ -36,7 +36,7 @@ def run():
         beta_1=0.1,
         beta_2=0.999,
         epsilon=1e-08
-    );
+    )
 
 
 if __name__ == "__main__":
